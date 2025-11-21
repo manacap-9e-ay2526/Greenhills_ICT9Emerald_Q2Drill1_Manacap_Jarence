@@ -1,0 +1,29 @@
+body {
+
+
+
+}
+
+.hero-image {
+background-image: url(texture1.jpg);
+
+
+}
+
+h1 {
+ text-align: center;
+
+
+}
+
+p {
+text-align: center;
+
+
+}
+
+.container {
+  text-align: center;
+  size: 75%;
+
+}
